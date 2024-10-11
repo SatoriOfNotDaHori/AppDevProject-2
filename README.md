@@ -10,10 +10,6 @@ New Repo Lets go
      - `sudo apt install -y nodejs`
    - Purpose: Required for running the Next.js app.
 
-
-2. **PM2 (Process Manager for Node.js)**
-   - Command: `sudo npm install -g pm2`
-   - Purpose: Manages and runs the Next.js app in the background.
-
     When git cloned, Use `npm install` to make it work
 
+    Don't know why the github shows the PM2 ()
