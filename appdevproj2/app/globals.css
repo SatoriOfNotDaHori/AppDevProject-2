@@ -25,3 +25,51 @@ body {
     text-wrap: balance;
   }
 }
+
+.background-image-class {
+  background-image: url('/images/AdobeStock_890130243.jpeg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.btn-primary {
+  background-color: #1d4ed8;
+  color: white;
+  padding: 12px 24px;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: bold;
+  transition: background-color 0.3s;
+}
+
+.btn-primary:hover {
+  background-color: #2563eb;
+}
+
+.btn-secondary {
+  background-color: white;
+  color: #1d4ed8;
+  border: 2px solid #1d4ed8;
+  padding: 12px 24px;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: bold;
+  transition: background-color 0.3s;
+}
+
+.btn-secondary:hover {
+  background-color: #e0f2fe;
+}
+
+p.description {
+  background-color: white;
+  color: #1d4ed8;
+  border: 2px solid #1d4ed8;
+  padding: 12px 24px;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: bold;
+  transition: background-color 0.3s;
+
+}
