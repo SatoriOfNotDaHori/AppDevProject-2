@@ -23,11 +23,10 @@ export default function LogIn() {
         </button>
       </form>
       <p className="mt-4">
-        Don't have an account?{" "}
-        <Link href="/signup"
-          className="text-blue-500 hover:underline">Sign Up
-        </Link>
+        Don&#39;t have an account?{" "}
+        <Link href="/signup" className="text-blue-500 hover:underline">Sign Up</Link>
       </p>
+
     </div>
   );
 }
